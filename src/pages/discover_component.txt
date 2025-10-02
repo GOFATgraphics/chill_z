@@ -1,0 +1,51 @@
+const trendingContent = [
+  {
+    id: "1",
+    type: "brand",
+    name: "Spotify",
+    handle: "@spotify",
+    avatar: "https://logo.clearbit.com/spotify.com",
+    description: "Music for everyone 🎵",
+    followers: "12.5M",
+    offer: "3 months free Premium"
+  },
+  {
+    id: "2", 
+    type: "creator",
+    name: "Emma Rose",
+    handle: "@emma_rose",
+    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+    description: "Fashion & lifestyle content creator",
+    followers: "890K"
+  },
+  {
+    id: "3",
+    type: "brand",
+    name: "Apple",
+    handle: "@apple",
+    avatar: "https://logo.clearbit.com/apple.com",
+    description: "Think different.",
+    followers: "25.3M",
+    offer: "Student discount available"
+  },
+  {
+    id: "4",
+    type: "brand",
+    name: "Nike",
+    handle: "@nike",
+    avatar: "https://logo.clearbit.com/nike.com",
+    description: "Just Do It ✓",
+    followers: "18.7M",
+    offer: "Free shipping on orders $50+"
+  },
+  {
+    id: "5",
+    type: "brand",
+    name: "Netflix",
+    handle: "@netflix",
+    avatar: "https://logo.clearbit.com/netflix.com",
+    description: "Watch anywhere. Cancel anytime.",
+    followers: "32.1M",
+    offer: "New releases every week"
+  }
+];
